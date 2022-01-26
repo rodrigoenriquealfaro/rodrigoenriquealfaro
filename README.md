@@ -2,7 +2,6 @@
 
 
 - 🔭 Un apasionado por la tecnología
-- 🐱‍👤 Aprendiendo skills sobre Back-end
 - 🌱 Estudiante de Desarrollo Web
 <div align="center">
   <a href="https://github.com/rodrigoenriquealfaro">
