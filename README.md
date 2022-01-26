@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/rodrigoenriquealfaro/rodrigoenriquealfaro/blob/main/assets/ezgif-3-4f6071dbee.gif" />
+</p>
+
+
 ### Hola! Soy Rodrigo Alfaro 🖐
 
 
