@@ -5,19 +5,21 @@
 
 ### Hola! Soy Rodrigo Alfaro 🖐
 
+<div align="left">
+  <p>-🐱‍💻 Me dedico a la parte del Front-end</p>
+  <p>-🐱‍👤 Buscando aprender skills sobre Back-end</p>
+  <p>-🥼 Estudiante de Desarrollo Web</p>
+  <p>-🤷‍♂️ Aprendí sobre Programación y Desarrollo web en la pandemia</p>
+  <p>-💲 Actualmente me encuentro en busqueda de trabajo</p>
+</div>
 
--🐱‍💻 Me dedico a la parte del Front-end
--🐱‍👤 Buscando aprender skills sobre Back-end
--🥼 Estudiante de Desarrollo Web
--🤷‍♂️ Aprendí sobre Programación y Desarrollo web en la pandemia
--💲 Actualmente me encuentro en busqueda de trabajo
 <div align="center">
-  <a href="https://github.com/rodrigoenriquealfaro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoenriquealfaro&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoenriquealfaro&layout=compact&langs_count=7&theme=cobalt"/>
+<a href="https://github.com/rodrigoenriquealfaro">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoenriquealfaro&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoenriquealfaro&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
  
-<div style="display: inline_block"><br>
+<div style="display: inline_block"> <br>
   <img align="center" alt="rea-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="rea-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="rea-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
